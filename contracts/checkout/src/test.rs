@@ -509,5 +509,9 @@ fn test_events_emitted() {
             ),
         ]
     );
-    assert_eq!(data_i128(ev_refund), amount, "OrderRefunded data amount mismatch");
+    assert_eq!(
+        data_i128(ev_refund),
+        amount,
+        "OrderRefunded data amount mismatch"
+    );
 }
