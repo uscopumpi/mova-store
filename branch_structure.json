@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/nextjs-toolchain-1c9b03d859",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "dependabot/npm_and_yarn/vitest-5.0.2",
+    "fix/709-freighter-account-change",
+    "fix/718-silence-payment-status-logs",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/nextjs-toolchain-1c9b03d859": "main",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3": "main",
+    "dependabot/npm_and_yarn/typescript-7.0.2": "main",
+    "dependabot/npm_and_yarn/vitest-5.0.2": "main",
+    "fix/709-freighter-account-change": "main",
+    "fix/718-silence-payment-status-logs": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/nextjs-toolchain-1c9b03d859",
+    "dependabot/npm_and_yarn/tailwindcss-4.3.3",
+    "dependabot/npm_and_yarn/typescript-7.0.2",
+    "dependabot/npm_and_yarn/vitest-5.0.2",
+    "fix/709-freighter-account-change",
+    "fix/718-silence-payment-status-logs",
+    "origin"
+  ]
+}
